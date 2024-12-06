@@ -1,0 +1,6 @@
+rootProject.name = 'completize-core-rest-api'
+include 'domain'
+include 'infrastructure'
+include 'application'
+include 'adapter'
+

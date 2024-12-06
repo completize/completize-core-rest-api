@@ -1,0 +1,7 @@
+group = 'com.completize.core.rest.api.adapter'
+version = '1.0-SNAPSHOT'
+
+dependencies {
+    //DEPENDENCY PROJECT
+    implementation project(':domain')
+}
